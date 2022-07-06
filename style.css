@@ -40,6 +40,8 @@ a {
     background-color: #1F2937;
     display: flex;
     justify-content: space-evenly;
+    padding-top: 60px;
+    padding-bottom: 120px;
 }
 
 .l1-head {
@@ -51,6 +53,7 @@ a {
 .l1-sub {
     font-size: 18px;
     color: #E5E7EB;
+    padding-bottom: 10px;
 }
 
 .sign {
@@ -67,4 +70,8 @@ a {
 
 .img-holder {
     display: flex;
+    background-color: rgb(104, 104, 104);
+    align-self: center;
+    color: white;
+    padding: 80px;
 }
