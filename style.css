@@ -107,3 +107,27 @@ a {
     font-size: 18px;
     color: rgb(79, 81, 83);
 }
+
+.quotation {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    padding: 110px;
+    padding-left: 230px;
+    padding-right: 230px;
+}
+
+.inspiring {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: rgba(31, 41, 55, 0.747);
+}
+
+.author {
+    align-self: flex-end;
+    font-weight: bolder;
+    font-size: 24px;
+    color: #1F2937;
+    padding-bottom: -20px;
+}
