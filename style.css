@@ -131,3 +131,32 @@ a {
     color: #1F2937;
     padding-bottom: -20px;
 }
+
+.last {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    background-color: #3882F6;
+    border-radius: 8px;
+    margin: 80px;
+    margin-left: 180px;
+    margin-right: 180px;
+    padding: 50px;
+}
+
+.ll-head {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.ll-sub {
+    color: rgba(255, 255, 255, 0.863);
+    font-size: 18px;
+}
+
+.sign.two {
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+}
