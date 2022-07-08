@@ -160,3 +160,12 @@ a {
     border-width: 2px;
     border-style: solid;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    padding: 30px;
+    color: white;
+    font-size: 16px;
+}
